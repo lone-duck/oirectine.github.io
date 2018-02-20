@@ -53,7 +53,7 @@ gems:
 navbar:
   - slug : about
     title: About
-  - slug : blog
-    title: Blog
+  - slug : projects
+    title: Projects
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

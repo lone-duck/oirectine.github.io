@@ -17,7 +17,7 @@ title: Home
           <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
         {% endif %}
       {% endunless %}
-      <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+      <li><div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div></li>
     {% endfor %}
   </div>
 

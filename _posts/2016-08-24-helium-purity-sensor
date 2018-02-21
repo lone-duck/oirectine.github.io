@@ -3,6 +3,7 @@ layout: post
 title: "Helium Purity Sensor"
 comments: true
 description: "..."
+keywords: "markdown"
 ---
 
 In the summer of 2016 I was hired under a contract from the Stewart Blusson Quantum Matter Institute (QMI) to assist in the design and production of an ultrasonic gas purity monitor. This project was initially commissioned by UBC’s Advanced Materials and Processed Engineering Laboratory (AMPEL) as an ENPH 479 capstone design project, in order to mitigate costs associated with occasional interruptions to the operation of the building’s liquid helium recovery system caused by impurities in gaseous helium.

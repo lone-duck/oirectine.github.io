@@ -33,7 +33,7 @@ Building, testing, and debugging this project, alongside reading the book, has g
 <br>
 <center>
     <figure>
-      <img src="/assets/images/backpaneltogether.png" alt="my alt text" style="width: 75%; height: 75%"/>
+      <img src="/assets/images/backpaneltogether.jpg" alt="my alt text" style="width: 75%; height: 75%"/>
       <figcaption>Fully Assembled (sans Enclosure)</figcaption>
     </figure>
 </center>

@@ -134,6 +134,11 @@ ___
 
 ![Minion](http://octodex.github.com/images/minion.png)
 
+<figure>
+  <img src="{{site.url}}/assets/images/author.jpg" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+
 ---
 Footnote:
 
